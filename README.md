@@ -24,7 +24,7 @@ Student at MBCCET | Active Learner | Web Developer | Team Player | App Developer
 
 Mail: joeljoshi2002@gmail.com
 
-Linkdin: https://www.linkedin.com/in/joel-joshi-321491215/
+Linkdin: www.linkedin.com/in/Joel-Joshi
 
 
 
