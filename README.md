@@ -1,7 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=100&width=435&lines=Hi.......;I+am+Joel+Joshi)](https://git.io/typing-svg)
+
 ### Hi there 👋
 
-## Me:
-I am Joel Joshi
 
 Student at MBCCET | Active Learner | Web Developer | Team Player | App Developer
 
