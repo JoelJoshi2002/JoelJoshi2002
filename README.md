@@ -26,7 +26,7 @@ Mail: joeljoshi2002@gmail.com
 
 Linkdin: www.linkedin.com/in/Joel-Joshi
 
-#Tools Used
+## Tools Used
 
 ![Java](https://img.shields.io/badge/-Java-61DAFB?style=flat-square&logo=java&logoColor=ffffff)
 ![C](https://img.shields.io/badge/-C-%23F05032?style=flat-square&logo=c&logoColor=%23ffffff)
