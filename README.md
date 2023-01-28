@@ -19,11 +19,21 @@ I am A Student at MBCCET | Web Developer | Team Player| App Developer
 💪🏽 I am a very fast learner , i am a great listener and a great problem solver in critical conditions.
 
 
-## Want To Connect:...
+<div align='center'>
 
-Mail: joeljoshi2002@gmail.com
+### Contact Me on:
+Email : joeljoshi2002@gmail.com
 
-Linkdin: www.linkedin.com/in/Joel-Joshi
+
+[<img align="center" alt="Instagram" width="25px" height="25px" src="https://raw.githubusercontent.com/itsachrafmansari/itsachrafmansari/main/icons/instagragm.svg"/>][instagram]  |
+[<img align="center" alt="Instagram" width="25px" height="25px" src="https://raw.githubusercontent.com/itsachrafmansari/itsachrafmansari/main/icons/twitter.svg" />][twitter]  |
+[<img align="center" alt="Linkedin" width="25px" height="25px" src="https://raw.githubusercontent.com/itsachrafmansari/itsachrafmansari/main/icons/linkedin.svg" />][linkedin]  |
+[instagram]: https://www.instagram.com/jxel_20_/
+[twitter]: https://twitter.com/JoelJoshi3
+[linkedin]: https://www.linkedin.com/in/joel-joshi/
+
+
+</div>
 
 ## Tools Used
 
