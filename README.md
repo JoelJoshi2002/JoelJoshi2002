@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=100&width=435&lines=Hi.......;I+am+Joel+Joshi)](https://git.io/typing-svg)
 
-### Hi there 👋
-
 
 I am A Student at MBCCET | Web Developer | Team Player| App Developer
 👋 From Thiruvalla Pathanamthitta 
@@ -27,7 +25,7 @@ Email : joeljoshi2002@gmail.com
 
 [<img align="center" alt="Instagram" width="25px" height="25px" src="https://raw.githubusercontent.com/itsachrafmansari/itsachrafmansari/main/icons/instagragm.svg"/>][instagram]  |
 [<img align="center" alt="Instagram" width="25px" height="25px" src="https://raw.githubusercontent.com/itsachrafmansari/itsachrafmansari/main/icons/twitter.svg" />][twitter]  |
-[<img align="center" alt="Linkedin" width="25px" height="25px" src="https://raw.githubusercontent.com/itsachrafmansari/itsachrafmansari/main/icons/linkedin.svg" />][linkedin]  |
+[<img align="center" alt="Linkedin" width="25px" height="25px" src="https://raw.githubusercontent.com/itsachrafmansari/itsachrafmansari/main/icons/linkedin.svg" />][linkedin]  
   
   
 [instagram]: https://www.instagram.com/jxel_20_/
