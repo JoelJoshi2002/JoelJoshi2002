@@ -46,6 +46,6 @@ Email : joeljoshi2002@gmail.com
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-%23E44D27?style=flat-square&logo=react&logoColor=ffffff)
-![Kali](https://img.shields.io/badge/Kali%20Linex-Hack-blue)
+
 
 
