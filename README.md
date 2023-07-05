@@ -2,7 +2,7 @@
 
 
 I am A Student at MBCCET | Web Developer | Team Player| App Developer
-👋 From Thiruvalla Pathanamthitta 
+👋 From Thiruvalla Pathanamthitta
 
 🎓 Studying at Mar Baselios Christian College of Engineering and Technology
 
