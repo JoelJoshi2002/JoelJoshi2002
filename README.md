@@ -1,21 +1,23 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=100&width=435&lines=Hi.......;I+am+Joel+Joshi)](https://git.io/typing-svg)
 
+👋 Hi, I'm Joel Joshi 
 
-I am A Student at MBCCET | Web Developer | Team Player| App Developer
-👋 From Thiruvalla Pathanamthitta
+🎓 I am currently pursuing my Master’s degree in Artificial Intelligence and Data Science at Deggendorf Institute of Technology (DIT), Germany. My passion lies in leveraging AI and machine learning to solve real-world challenges and contribute to technological innovation. 
 
-🎓 Studying at Mar Baselios Christian College of Engineering and Technology
+🎓 B.Tech Computer Science graduate from Mar Baselios Christian College of Engineering and Technology, Kuttikkanam (affiliated with APJ Abdul Kalam Technological University). 
 
-🌇 Lives in Kumbanad,Thiruvalla.
+🌍 Lives in Deggendorf, Germany 
 
-📚 Hi there! My name is Joel Joshi  and I am a computer science student with a great desire to learn and code. I am passionate about using technology to solve complex problems and make a positive impact in the world. During my studies, I have gained a strong foundation in Programming Languages Like C, Python, HTML, React and computer science principles, and I am always eager to learn more and expand my skillset. In my spare time, you can find me coding personal projects and contributing to open source projects. I am excited to connect with other professionals in the tech industry and explore potential opportunities for growth and learning. Thank you for stopping by my profile!
 
-💻 I am hoping to work as a team leader at a company solving problems in a creative yet effective way.
+🔧 With hands-on experience in projects like the NAVIC-based bus tracking system and Diabetic Retinopathy detection using deep learning, I have built a strong foundation in AI model development, data analytics, and problem-solving. 
 
-🏔 I like to go hiking and exploring the wild nature during my free days.
+🚀 Skilled in Python, C, SQL, React, and Machine Learning frameworks, I am continually upskilling myself to stay ahead in the rapidly evolving AI landscape. 
 
-💪🏽 I am a very fast learner , i am a great listener and a great problem solver in critical conditions.
+💡 My aspiration is to become a creative and impactful contributor to the AI and data science industry, solving problems efficiently while leading dynamic teams toward innovation. 
 
+🏞 Outside of tech, I enjoy hiking, exploring nature, and discovering new trails. 
+
+💪 Fast learner, adaptive thinker, and an efficient problem solver with a strong ability to thrive under pressure and deliver results. 
 
 <div align='center'>
 
